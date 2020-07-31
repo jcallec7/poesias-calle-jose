@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "583324578499",
+    "firebase_url": "https://poesiasexamen.firebaseio.com",
+    "project_id": "poesiasexamen",
+    "storage_bucket": "poesiasexamen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583324578499:android:55c5ebc92e8f28cee56876",
+        "android_client_info": {
+          "package_name": "com.ups.poesias"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583324578499-oud2e9mh0e41tq84pfoek3guldp7je02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDstXicLbsXtpSVKwXQ6dklXHTJSs43W98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583324578499-oud2e9mh0e41tq84pfoek3guldp7je02.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "583324578499-kgfj6rh8pu7on2u2fiu3f3fdstch04ie.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ups.poesias"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
