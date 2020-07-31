@@ -1,0 +1,7 @@
+{
+  "name": "poesias-calle-jose",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
